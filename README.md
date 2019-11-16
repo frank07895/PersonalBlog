@@ -1,2 +1,2 @@
 # MyPersonalWebsite
-Designed using HTML And CSS
+Designed by using HTML And CSS
